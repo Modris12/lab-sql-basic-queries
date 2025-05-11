@@ -1,5 +1,7 @@
 USE sakila;
 
+SHOW Tables;
+
  SELECT *
  FROM sakila.actor;
  
